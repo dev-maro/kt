@@ -1,1 +1,1 @@
-worker: php ktali.php
+web: php index.php
