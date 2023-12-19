@@ -1,0 +1,1 @@
+worker: php ktali.php
